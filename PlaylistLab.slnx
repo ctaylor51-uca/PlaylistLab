@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PlaylistLab.vcxproj" Id="0dd6f8cb-f2a8-491c-9885-f7bef334a715" />
+</Solution>
